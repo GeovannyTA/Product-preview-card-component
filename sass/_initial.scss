@@ -1,0 +1,16 @@
+@use 'variables' as v;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: v.$Cream;
+    font-family: v.$Font-montserrat;
+
+    @media (min-width: 1115px) {
+        margin: auto;
+    }
+}
