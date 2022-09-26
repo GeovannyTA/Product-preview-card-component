@@ -20,7 +20,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-LEA4BLdk46)
 - Live Site URL: [Live site on vercel](https://product-preview-card-component-l298.vercel.app/)
 
 ## My process
